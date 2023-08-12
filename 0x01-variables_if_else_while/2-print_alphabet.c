@@ -1,18 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - executes alphabet code
+ * main - prints the alphabet
  * Return: Always (Success)
  */
+
 int main(void)
 {
-	char alphabet = 'a';
+	char c;
 
-	while (alphabet <= 'z')
-	{
-		putchar(alphabet);
-		a++;
-	}
-	putchar("\n");
-	return (0);
+	for (c = 'a', c <= 'z', c++)
+	putchar(c);
+	putchar('\n');
+	return(0);
+
 }
