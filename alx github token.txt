@@ -1,0 +1,10 @@
+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 alx token github
+
+git clone https://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@github.com/hermen9/simple_shell.git
+
+cd root/alx-low_level_programming/0x04-more_functions_nested_loops
+
+cd root/alx-low_level_programming/0x05-pointers_arrays_strings
+
+https://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@github.com/hermen9/alx-low_level_programming.git
+2-STRLEN.C
